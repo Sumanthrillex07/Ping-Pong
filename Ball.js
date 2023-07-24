@@ -3,7 +3,7 @@ const VELOCITY_INCREASE = 0.000005;
 export default class Ball {
   constructor(ballElem) {
     this.ballElem = ballElem;
-    this.paused = false;
+    this.paused = true;
     this.reset();
     this.sound1 = new Audio("sound/pingpongbat.ogg");
     this.sound2 = new Audio("sound/pingpongboard.ogg");
