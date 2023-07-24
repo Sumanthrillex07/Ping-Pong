@@ -12,4 +12,4 @@
 ## How to play
 ### The goal of the game is to keep the ball from hitting the ground by using your paddle to hit it back and forth. The player with the most points at the end of the game wins.
 
-### This README file is concise and informative. It includes a clear list of features, instructions on how to play the game. I hope this is helpful! :heartbeat:
+#### This README file is concise and informative. It includes a clear list of features, instructions on how to play the game. I hope this is helpful! :heartbeat:
