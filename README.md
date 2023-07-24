@@ -1,5 +1,5 @@
 # Ping Pong Game
-## This is a simple ping pong game created with HTML/CSS and JS. The game features sound effects, changing colors, and pause/resume functions. It also has two players, one is the computer and the other is you.
+### This is a simple ping pong game created with HTML/CSS and JS. The game features sound effects, changing colors, and pause/resume functions. It also has two players, one is the computer and the other is you.
 
 
 ### Here is the website [link](https://dynamic-ping-pong.netlify.app/).
