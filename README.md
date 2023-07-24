@@ -13,5 +13,6 @@
 
 ## How to play
 ### The goal of the game is to keep the ball from hitting the ground by using your paddle to hit it back and forth. The player with the most points at the end of the game wins.
+## NOTE: Press Spacebar to start the game.
 
 #### This README file is concise and informative. It includes a clear list of features, instructions on how to play the game. I hope this is helpful! :heartbeat:
